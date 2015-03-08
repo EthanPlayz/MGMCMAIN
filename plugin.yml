@@ -1,0 +1,8 @@
+name: MGMCMAIN
+author: EthanPvPYT
+version: 1.0-PR1
+main: me.EthanPvPYT.Commands.Command_MGMC.java
+commands:
+  MGMC:
+         description: Tut for new players
+         usage: /<command>
